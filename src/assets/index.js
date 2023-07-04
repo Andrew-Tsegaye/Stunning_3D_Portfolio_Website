@@ -22,6 +22,9 @@ import adani from './company/adani.png';
 import bn_software from './company/bn_software.jpg';
 import ericsson from './company/ericsson.png';
 
+import kamel_tourki from './testimonials/kamel_tourki.jpg';
+import nati_gezahegn from './testimonials/nati_gezahegn.jpg';
+
 import gan_dapt from './gan_dapt.jpg';
 import neuro_drive from './neuro_drive.jpg';
 import market_predict from './market_predict.jpg';
@@ -51,4 +54,6 @@ export {
   pandas,
   pycharm,
   jupyter,
+  kamel_tourki,
+  nati_gezahegn,
 };

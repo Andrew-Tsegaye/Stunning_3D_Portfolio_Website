@@ -19,6 +19,8 @@ import {
   adani,
   bn_software,
   ericsson,
+  kamel_tourki,
+  nati_gezahegn,
 } from '../assets';
 
 export const navLinks = [
@@ -102,9 +104,9 @@ const experiences = [
     iconBg: '#383E56',
     date: 'June 2019 - July 2019',
     points: [
-      'Assisting in the development and implementation of machine learning models and algorithms.',
-      'Collaborating with a team of researchers and engineers to solve complex problems using machine learning techniques.',
-      'Experimenting with different machine learning frameworks and tools.',
+      'Completed a summer internship in Machine Learning using Python with A+ grade.',
+      'Worked on analysis of machine learning algorithms for detecting abnormalities and electricity theft.',
+      'Analyzed data from smart meters to train Linear, Quadratic Regression models to predict theft with a minimum RSME value of 0.06.',
       'Participating in code reviews and providing feedback on machine learning code and implementations.',
     ],
   },
@@ -115,10 +117,10 @@ const experiences = [
     iconBg: '#E6DEDD',
     date: 'Mar 2019 - Aug 2019',
     points: [
+      'Leader of a research team that created and manipulated a robot through Arduino programming which cleans and paints the chimney of a thermal power plant.',
+      'Conducting robotics workshop for junior students.',
+      'Planning a monthly schedule of team operation.',
       'Building and assembling robots as part of hands-on sessions.',
-      'Programming robots using languages or frameworks such as Arduino, ROS, or Python.',
-      'Experimenting with sensors and actuators to enable robot interactions with the environment.',
-      'Solving robotics challenges or tasks like maze navigation or line following.',
     ],
   },
   {
@@ -128,9 +130,9 @@ const experiences = [
     iconBg: '#383E56',
     date: 'Mar 2021 - Aug 2021',
     points: [
-      'Exploring and visualizing data using tools like Python libraries (e.g., Pandas, Matplotlib, Seaborn) or R to gain insights and identify patterns.',
-      'Contributing to the creation of data-driven reports, presentations, and visualizations to communicate findings and insights.',
-      'Supporting the development and implementation of machine learning models and algorithms for data analysis and prediction.',
+      'Worked on Time Series-based Data Analysis for Taxi Service.',
+      'Created analysis and visualisation tools to analyse the behaviour of our agents.',
+      'Implemented a Recommendation Systems for our delivery application.',
       'Staying updated with the latest advancements and best practices in data science through self-learning and research.',
     ],
   },
@@ -141,10 +143,10 @@ const experiences = [
     iconBg: '#E6DEDD',
     date: 'Sep 2022 - Present',
     points: [
-      'Designing and developing advanced AI models and algorithms to solve complex problems.',
-      'Conducting in-depth research and staying updated with the latest advancements in the field of AI.',
-      'Implementing and optimizing AI models using programming languages like Python or frameworks like TensorFlow or PyTorch.',
-      'Deploying AI models in production environments, considering factors like scalability, reliability, and security.',
+      'Working on optimization of OFDM using Deep Learning.',
+      'Currently working on cGAN and trying to develop an advanced algorithm for optimization of OFDM.',
+      'Reviewed state of the art on OFDM 5G NR and developed a novel solution for the project task.',
+      'Learning about 3GPP 5G NR standard through mentors, video lectures and meetings.',
     ],
   },
 ];
@@ -152,19 +154,19 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.',
-    name: 'Sara Lee',
-    designation: 'CFO',
-    company: 'Acme Co',
-    image: 'https://randomuser.me/api/portraits/women/4.jpg',
+      'An AI optimization guru for OFDM (mainly 5G), with outstanding problem solving skills and strong programming expertise, making him highly recommended.',
+    name: 'Kamel Tourki',
+    designation: 'CEO',
+    company: 'Ericsson',
+    image: kamel_tourki,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: 'Chris Brown',
-    designation: 'COO',
-    company: 'DEF Corp',
-    image: 'https://randomuser.me/api/portraits/men/5.jpg',
+      'He has exemplified extraordinary prowess as a devoted, tireless, and imaginative AI master, coupled with remarkable personal qualities that radiate brilliance.',
+    name: 'Nathnael Gezahegn',
+    designation: 'CEO',
+    company: 'BN Technologies',
+    image: nati_gezahegn,
   },
   {
     testimonial:
