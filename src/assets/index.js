@@ -24,6 +24,7 @@ import ericsson from './company/ericsson.png';
 
 import kamel_tourki from './testimonials/kamel_tourki.jpg';
 import nati_gezahegn from './testimonials/nati_gezahegn.jpg';
+import zakaria from './testimonials/zakaria.jpg';
 
 import gan_dapt from './gan_dapt.jpg';
 import neuro_drive from './neuro_drive.jpg';
@@ -56,4 +57,5 @@ export {
   jupyter,
   kamel_tourki,
   nati_gezahegn,
+  zakaria,
 };

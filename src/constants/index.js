@@ -21,6 +21,7 @@ import {
   ericsson,
   kamel_tourki,
   nati_gezahegn,
+  zakaria,
 } from '../assets';
 
 export const navLinks = [
@@ -137,7 +138,7 @@ const experiences = [
     ],
   },
   {
-    title: 'Expert AI Engineer',
+    title: 'Master Internship: 3GPP RAN4 AI',
     company_name: 'Ericsson',
     icon: ericsson,
     iconBg: '#E6DEDD',
@@ -154,9 +155,9 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'An AI optimization guru for OFDM (mainly 5G), with outstanding problem solving skills and strong programming expertise, making him highly recommended.',
+      'An AI optimization prodigy for OFDM (mainly 5G), with outstanding problem solving skills and strong programming expertise, making him highly recommended.',
     name: 'Kamel Tourki',
-    designation: 'CEO',
+    designation: 'Research and Standardization Manager',
     company: 'Ericsson',
     image: kamel_tourki,
   },
@@ -170,11 +171,11 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: 'Lisa Wang',
-    designation: 'CTO',
-    company: '456 Enterprises',
-    image: 'https://randomuser.me/api/portraits/women/6.jpg',
+      'Eskinder is an exceptional AI expert, demonstrating unmatched talent in research, critical thinking, and harnessing PyTorch and Keras to their fullest potential.',
+    name: 'Zakaria El Moutaki',
+    designation: 'Standardization Researcher',
+    company: 'Ericsson',
+    image: zakaria,
   },
 ];
 
@@ -240,7 +241,8 @@ const projects = [
       },
     ],
     image: market_predict,
-    source_code_link: 'https://github.com/',
+    source_code_link:
+      'https://github.com/ESKINDERTSEGAYE/Project-Market-Value-Predictor',
   },
 ];
 
