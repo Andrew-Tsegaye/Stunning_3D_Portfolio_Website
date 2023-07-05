@@ -142,7 +142,7 @@ const experiences = [
     company_name: 'Ericsson',
     icon: ericsson,
     iconBg: '#E6DEDD',
-    date: 'Sep 2022 - Present',
+    date: 'Mar 2023 - Present',
     points: [
       'Working on optimization of OFDM using Deep Learning.',
       'Currently working on cGAN and trying to develop an advanced algorithm for optimization of OFDM.',
