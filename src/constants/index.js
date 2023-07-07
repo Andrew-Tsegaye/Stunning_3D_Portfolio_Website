@@ -107,7 +107,7 @@ const experiences = [
     points: [
       'Completed a summer internship in Machine Learning using Python with A+ grade.',
       'Worked on analysis of machine learning algorithms for detecting abnormalities and electricity theft.',
-      'Analyzed data from smart meters to train Linear, Quadratic Regression models to predict theft with a minimum RSME value of 0.06.',
+      'Analyzed data from smart meters to train Linear, Quadratic Regression models to predict theft with a minimum RMSE value of 0.06.',
       'Participating in code reviews and providing feedback on machine learning code and implementations.',
     ],
   },
