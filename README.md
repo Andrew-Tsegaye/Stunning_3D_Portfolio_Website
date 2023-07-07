@@ -1,5 +1,9 @@
 # Stunning 3D Portfolio Website
 
+![screen-shot](https://i.imgur.com/JHgrRn6.png)
+
+You can see a live preview of the Stunning 3D Portfolio Website [here](https://3d-portfolio-eskew.netlify.app).
+
 > Welcome to the Stunning 3D Portfolio Website repository! This project aims to provide an immersive and visually striking portfolio website using cutting-edge technologies. Whether you're a designer, developer, or creative professional, this portfolio template will leave a lasting impression on your visitors.
 
 ## Features
@@ -9,11 +13,7 @@
 - **Interactive Portfolio Showcase**: Showcase your work in an interactive and visually appealing manner. Let your projects shine with beautiful imagery, engaging descriptions, and easy navigation.
 - **Customizable and Easy to Use**: Tailor the portfolio to your needs by easily customizing various aspects, such as colors, typography, content, and more. The codebase is clean, well-organized, and extensively commented on for easy understanding and modification.
 
-## Preview
 
-![screen-shot](https://i.imgur.com/JHgrRn6.png)
-
-You can see a live preview of the Stunning 3D Portfolio Website [here](https://3d-portfolio-eskew.netlify.app).
 
 ## Installation
 To get started with the Stunning 3D Portfolio Website, follow these steps:
